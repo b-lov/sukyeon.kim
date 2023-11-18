@@ -1,2 +1,2 @@
-<h1>Sukyeon Kim</h1>
+<h1>Welcome to SvelteKit</h1>
 <p>Sukyeon Kim Homepage</p>
